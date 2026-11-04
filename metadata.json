@@ -1,0 +1,6 @@
+{
+  "name": "Reward Earn 3",
+  "description": "A premium rewards and earning application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
